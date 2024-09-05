@@ -37,6 +37,7 @@ Data management and operations are centralized in the **StarThriveManager** clas
 
 4. **Build and Run**:
    - Build the project (Ctrl+F9).
+   - **Important**: The `main` class is located in the `src` folder.
    - Run the main class from IntelliJ IDEA.
 
 ## Available Operations
