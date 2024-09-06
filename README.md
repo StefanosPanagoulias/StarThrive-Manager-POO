@@ -32,7 +32,8 @@ Data management and operations are centralized in the **StarThriveManager** clas
    - Download the project files from the repository.
 
 3. **Project Setup in IntelliJ**:
-   - Open IntelliJ IDEA and import the project from the directory where the files are stored.
+   - **Important**: Ensure you are inside the second `StarThrive-Manager-POO-main` folder (the nested folder) when opening the project in IntelliJ IDEA. Opening the outer folder may cause issues with project structure recognition.
+   - Open IntelliJ IDEA and import the project from the nested folder where the files are stored.
    - Ensure the project's SDK is set to the correct Java version (Java 11 or Java 17).
 
 4. **Build and Run**:
